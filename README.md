@@ -1,5 +1,5 @@
 # TelcoChurn
-Data cleaning, data manipulation, modeling and hyperparameter tuning
+Data cleaning, data manipulation, modeling using random forest classification and hyperparameter tuning
 
 
 # FINAL RESULT <br>
